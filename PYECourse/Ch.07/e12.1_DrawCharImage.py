@@ -1,5 +1,4 @@
 # Ch.07.3 Draw Image as Characters
-# Find the most 10 used words and counts
 
 from PIL import Image
 
