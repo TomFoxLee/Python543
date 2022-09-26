@@ -1,4 +1,5 @@
 # Exercise 03 of "Learn Python3 the Hard Way"
+# numbers and math calculation
 
 print("I will now count my chickens:")
 print("Hens", 25 + 30 / 6)
