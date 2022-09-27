@@ -1,4 +1,4 @@
-# Exercise 04 of "Learn Python3 the Hard Way"
+# Exercise 06 of "Learn Python3 the Hard Way"
 # string and text
 # "f-sting", f means "format", put variables in  {var}
 # a.format(var)

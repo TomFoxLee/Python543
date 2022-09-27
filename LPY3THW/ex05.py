@@ -1,4 +1,4 @@
-# Exercise 04 of "Learn Python3 the Hard Way"
+# Exercise 05 of "Learn Python3 the Hard Way"
 # more variables and printing
 # f means "format", put variables in  {}
 
