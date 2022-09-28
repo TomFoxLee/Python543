@@ -1,4 +1,4 @@
-# Exercise 09 of "Learn Python3 the Hard Way"
+# Exercise 10 of "Learn Python3 the Hard Way"
 # What Was That?
 
 tabby_cat = "\tI'm tabbed in."
