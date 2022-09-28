@@ -1,5 +1,5 @@
 # Exercise 09 of "Learn Python3 the Hard Way"
-# what is that
+# What Was That?
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split \non a line."

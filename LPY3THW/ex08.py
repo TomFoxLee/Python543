@@ -1,5 +1,5 @@
 # Exercise 08 of "Learn Python3 the Hard Way"
-# print, print
+# Printing, Printing
 
 formatter = "{} {} {} {}"
 

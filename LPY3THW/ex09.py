@@ -1,5 +1,5 @@
 # Exercise 09 of "Learn Python3 the Hard Way"
-# print, print, print
+# Printing, Printing, Printing
 # Here's some new strange stuff, remember type it exactly.
 
 days = "Mon Tue Wed Thr Fri Sat Sun"

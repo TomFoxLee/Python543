@@ -1,5 +1,5 @@
 # Exercise 05 of "Learn Python3 the Hard Way"
-# more variables and printing
+# More Variables and Printing
 # f means "format", put variables in  {}
 
 my_name = "Zed A. Shaw"

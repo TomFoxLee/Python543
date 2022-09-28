@@ -1,5 +1,5 @@
 # Exercise 04 of "Learn Python3 the Hard Way"
-# variables and naming
+# Variables and Names
 
 # how many cars
 cars = 100

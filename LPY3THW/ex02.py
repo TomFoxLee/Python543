@@ -1,4 +1,5 @@
 # Exercise 02 of "Learn Python3 the Hard Way"
+# Comments and Pound Characters
 # "#" is called "octothorpe" or "pound character"
 
 # A comment, this is so you can read your program later.
