@@ -1,5 +1,7 @@
 # Exercise 01 of "Learn Python3 the Hard Way"
 # A Good First Program
+#
+# print()
 
 print("Hello World!")
 print("Hello Again")

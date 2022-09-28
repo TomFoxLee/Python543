@@ -1,5 +1,8 @@
 # Exercise 07 of "Learn Python3 the Hard Way"
 # More Printing
+#
+# print("\n"); \n for new line.
+
 
 print("Mary has a little lamb.")
 print("Its fleece was white as {}.".format("snow"))

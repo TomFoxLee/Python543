@@ -1,5 +1,6 @@
 # Exercise 06 of "Learn Python3 the Hard Way"
 # Strings and Text
+#
 # "f-sting", f means "format", put variables in  {var}
 # a.format(var)
 

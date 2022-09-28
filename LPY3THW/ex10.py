@@ -1,5 +1,9 @@
 # Exercise 10 of "Learn Python3 the Hard Way"
 # What Was That?
+#
+# \r CR
+# \n LF
+# \t TAB
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split \non a line."

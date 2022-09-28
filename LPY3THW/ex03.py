@@ -1,5 +1,8 @@
 # Exercise 03 of "Learn Python3 the Hard Way"
 # Numbers and Math
+#
+# 100 = 16 * 6 + 4
+# 100 % 16 = 4
 
 print("I will now count my chickens:")
 print("Hens", 25 + 30 / 6)
@@ -23,3 +26,7 @@ print("How about some more.")
 print("Is it greater?", 5 > -2)
 print("Is it greater or equal?", 5 >= -2)
 print("Is it less or equal?", 5 <= -2)
+
+# Practice
+print("\n# Practice #")
+print("100 % 16 = ", 100 % 16)

@@ -1,6 +1,9 @@
 # Exercise 05 of "Learn Python3 the Hard Way"
 # More Variables and Printing
+#
 # f means "format", put variables in  {}
+# round(1.7333) = 2
+# round(1.3777) = 1
 
 my_name = "Zed A. Shaw"
 my_age = 35  # not a lie
@@ -20,3 +23,8 @@ print(f"His teeth are usually {my_teeth} depending on the coffee.")
 # this line is tricky, tyr to get it exactly right
 total = my_age + my_height + my_weight
 print(f"If I add {my_age}, {my_height}, and {my_weight} I get {total}.")
+
+# Practice
+print("\n# Practice #")
+print("round(1.7333) = ", round(1.7333))
+print("round(1.3777) = ", round(1.3777))
