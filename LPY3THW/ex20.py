@@ -1,5 +1,7 @@
 # Exercise 20 of "Learn Python3 the Hard Way"
 # Functions and Files
+#
+# add 'end=""' at the end of print function to avoid additional "\n" in readline()
 
 from sys import argv
 
@@ -38,3 +40,21 @@ print_a_line(current_line, current_file)
 
 current_line = current_line + 1
 print_a_line(current_line, current_file)
+
+# Practice
+def print_a_line_v2(line_count, f):
+    print(line_count, f.readline(), end="")
+
+
+print("Let's print three lines withour extra line:")
+
+rewind(current_file)
+
+current_line = 1
+print_a_line_v2(current_line, current_file)
+
+current_line = current_line + 1
+print_a_line_v2(current_line, current_file)
+
+current_line = current_line + 1
+print_a_line_v2(current_line, current_file)
