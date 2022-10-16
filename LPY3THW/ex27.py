@@ -1,4 +1,4 @@
-# Exercise 26 of "Learn Python3 the Hard Way"
+# Exercise 27 of "Learn Python3 the Hard Way"
 # Memorizing Logic
 #
 # and, or, not
