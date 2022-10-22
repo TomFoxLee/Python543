@@ -1,6 +1,7 @@
 # Exercise 30 of "Learn Python3 the Hard Way"
 # Else and If
 #
+# if-elif-else
 # if multiple elif blocks are "True", only the first one will be run.
 
 people = 30
